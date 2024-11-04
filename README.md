@@ -1,8 +1,62 @@
-# Read Below
+# [The Complete Spring Framework Web Development Course Course](https://www.udemy.com/course/spring-framework-web-development-2020/)
 
+Learn Spring 5, Boot 2, JPA, AOP, Web MVC, REST
+
+Master Modern Spring Boot, Spring Web MVC, AOP, Hibernate, Thymeleaf, JPA, Spring Security, RESTful services
+
+<img title="JRP Learn Spring 5, Boot 2, JPA, AOP, Web MVC, REST Course New Banner" alt="JRP Learn Spring 5, Boot 2, JPA, AOP, Web MVC, REST Course New Banner" src="https://raw.githubusercontent.com/JobReadyProgrammer/spring-framework-course/refs/heads/master/JRP%20Learn%20Spring%205%2C%20Boot%202%2C%20JPA%2C%20AOP%2C%20Web%20MVC%2C%20REST%20Course%20New%20Banner.jpg">
+
+This GitHub Repository will include the Source Code for the [The Complete Spring Framework Web Development Course Course](https://www.udemy.com/course/spring-framework-web-development-2020/)
+
+## Instructor's Note :
 
 All the code typed in the course lectures is in the <strong>src</strong> folder shown above. 
 Please <strong>don't</strong> just download or copy this code. I'd like you to be creating this project from scratch as I show you in the lectures step by step. You'll learn a bazillion times more effectively that way, I promise. This code is just for your reference in case you want to double-check the code you typed with what I typed in the video. 
 
 
-LAST UPDATED: MAY 2020
+### Note for newcomers
+
+Checkout our complete course on the following platforms:
+1. [Udemy](https://www.udemy.com/course/spring-framework-web-development-2020/)
+2. [Job Ready Programmer (JRP)](https://www.jobreadyprogrammer.com/p/master-spring-framework-5-boot-2-spring-web)
+3. [JRP Membership (Includes Data Analyst & Software Developer Career Paths)](https://www.jobreadyprogrammer.com/p/all-access-pass?coupon_code=GET_HIRED_ALREADY)
+
+## About the course :
+
+
+## Topics covered in this course :
+
+- Spring Framework 5
+- Spring Boot 2
+- Spring MVC
+- Maven
+- Spring Data CRUD Repositories
+- Tymeleaf
+- Hibernate
+- Spring Annotations
+- Using the Command Line to run Spring Boot Apps
+- Core Spring Concepts
+- Property Configurations
+- PostgreSQL Database
+- Integration Testing
+- Deploying our Spring Application to the AWS EC2 Server
+- Containerization using Docker
+- Spring AOP (Aspect Oriented Programming)
+- Spring Security
+- RESTFul Web Services API
+
+### Contact us
+- Learn more: [jobreadyprogrammer.com](https://jobreadyprogrammer.com/)
+- Email us: info@jobreadyprogrammer.com
+- Follow us on Social Media: [linktr.ee/jobreadyprogrammer](linktr.ee/jobreadyprogrammer)
+- Read our articles on [Medium - Job Ready Programmer](https://jobreadyprogrammer.medium.com/)
+
+### About Imtiaz Ahmad
+
+- Imtiaz Ahmad is an award-winning Udemy Instructor who is highly experienced in big data technologies and enterprise software architectures.
+- Imtiaz has spent a considerable amount of time building financial software on Wall St. and worked with companies like S&P, Goldman Sachs, AOL and JP Morgan along with helping various startups solve mission-critical software problems.
+- In his 13+ years of experience, Imtiaz has also taught software development in programming languages like Java, C++, Python, PL/SQL, Ruby and JavaScript.
+- He’s the founder of Job Ready Programmer — an online programming school that prepares students of all backgrounds to become professional job-ready software developers through real-world programming courses.
+- Take the twin highway of Learning Data Analysis and Software Development on a single platform: Job Ready Programmer
+
+<img title="a title" alt="Alt text" src="https://raw.githubusercontent.com/JobReadyProgrammer/JobReadyProgrammer/main/JRP_GitHub_Banner.png" onclick="https://www.jobreadyprogrammer.com/p/all-access-pass?coupon_code=GET_HIRED_ALREADY">

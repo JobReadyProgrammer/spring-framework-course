@@ -60,7 +60,7 @@ Why Spring?
 ### Contact us
 - Learn more: [jobreadyprogrammer.com](https://jobreadyprogrammer.com/)
 - Email us: info@jobreadyprogrammer.com
-- Follow us on Social Media: [linktr.ee/jobreadyprogrammer](linktr.ee/jobreadyprogrammer)
+- Follow us on Social Media: [linktr.ee/jobreadyprogrammer](https://linktr.ee/jobreadyprogrammer)
 - Read our articles on [Medium - Job Ready Programmer](https://jobreadyprogrammer.medium.com/)
 
 ### About Imtiaz Ahmad
